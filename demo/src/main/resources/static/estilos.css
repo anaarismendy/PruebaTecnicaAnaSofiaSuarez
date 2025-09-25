@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(135deg, #f8bbd0 0%, #fce4ec 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff0f6;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(240, 80, 160, 0.15);
+    padding: 32px 24px;
+}
+h1 {
+    color: #e91e63;
+    text-align: center;
+    margin-bottom: 24px;
+}
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #ad1457;
+    font-weight: 500;
+}
+input[type="text"], input[type="number"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #f8bbd0;
+    border-radius: 8px;
+    background: #fff;
+    font-size: 1em;
+}
+button {
+    width: 100%;
+    background: #e91e63;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+button:hover {
+    background: #ad1457;
+}
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 18px;
+    color: #e91e63;
+    text-decoration: none;
+    font-weight: 500;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 24px;
+}
+th, td {
+    border: 1px solid #f8bbd0;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background: #f8bbd0;
+    color: #ad1457;
+}
+tr:nth-child(even) {
+    background: #fce4ec;
+}
+a.action {
+    color: #e91e63;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: 500;
+}
+a.action:hover {
+    text-decoration: underline;
+}

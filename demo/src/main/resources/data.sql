@@ -1,0 +1,12 @@
+INSERT INTO product (name, price, stock, category) VALUES ('Laptop Dell XPS 13', 1299.99, 15, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Smartphone Samsung Galaxy S24', 899.50, 25, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Auriculares Sony WH-1000XM4', 349.99, 8, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Mesa de Oficina IKEA', 150.00, 12, 'Muebles');
+INSERT INTO product (name, price, stock, category) VALUES ('Silla Ergonómica', 245.75, 18, 'Muebles');
+INSERT INTO product (name, price, stock, category) VALUES ('Libro: Clean Code', 42.99, 30, 'Libros');
+INSERT INTO product (name, price, stock, category) VALUES ('Cafetera Nespresso', 180.00, 7, 'Electrodomésticos');
+INSERT INTO product (name, price, stock, category) VALUES ('Teclado Mecánico Gaming', 89.99, 22, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Monitor 4K LG 27"', 399.00, 10, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Mochila para Laptop', 45.50, 35, 'Accesorios');
+INSERT INTO product (name, price, stock, category) VALUES ('Webcam Logitech C920', 79.99, 14, 'Electrónicos');
+INSERT INTO product (name, price, stock, category) VALUES ('Escritorio Ajustable', 320.00, 6, 'Muebles');
